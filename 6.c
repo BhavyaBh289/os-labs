@@ -43,5 +43,4 @@ void * philos(void * n)
  }
  
  
- // gcc filename.c -lpthread
- // ./a.exe
+
